@@ -163,8 +163,9 @@ OSEL code.
 
 ### How do I apply it?
 
-Put the full text in `LICENSE`, fill in the copyright line, and add the
-per-file notice from [examples/source-header.txt](examples/source-header.txt).
+Put the full text in `LICENSE` and add the per-file notice from
+[examples/source-header.txt](examples/source-header.txt). The copyright
+notice is `Copyright (c) 2026 OpenReciprocal`.
 
 ### Can I dual-license?
 
@@ -197,6 +198,5 @@ name or a different version.
 
 ### Who maintains this repository?
 
-The OpenReciprocal project. Decision rules are in
-[GOVERNANCE.md](GOVERNANCE.md). The initial 0.1 text was committed by
-lemonhub-io.
+OpenReciprocal. Decision rules are in
+[GOVERNANCE.md](GOVERNANCE.md). Copyright notices name that organization.

@@ -28,7 +28,7 @@ OSEL 0.1 是工作草案，尚未提交开放源代码促进会（Open Source In
 
 开源演进许可证（OSEL），0.1 版
 
-Copyright (c) &lt;年份&gt; &lt;著作权人&gt;
+Copyright (c) 2026 OpenReciprocal
 
 ## 第 1 条 定义
 
@@ -180,7 +180,7 @@ Copyright (c) &lt;年份&gt; &lt;著作权人&gt;
 
 要把本许可证用于你的软件，请在每个源文件的开头加入下列声明：
 
-    Copyright (c) <年份> <著作权人>
+    Copyright (c) 2026 OpenReciprocal
 
     This software is released under the Open Source Evolution License (OSEL), Version 0.1. That license permits Recipients, subject to specified conditions, to evolve the license into an OSI-Approved Compatible License that imposes additional obligations. The complete license text is available in the LICENSE file in the project root directory.
 

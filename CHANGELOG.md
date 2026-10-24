@@ -8,6 +8,10 @@ here. The operative license changes only when a versioned file under
 
 No change to the operative wording of OSEL 0.1 Sections 1 through 9.
 
+### Copyright notices
+
+- Copyright notices name the organization: `Copyright (c) 2026 OpenReciprocal`.
+
 ### 0.2 discussion draft
 
 - Added `LICENSES/OSEL-0.2-draft.txt`. The step is Evolution. The test is

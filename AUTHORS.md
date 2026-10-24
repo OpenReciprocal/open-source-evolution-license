@@ -1,7 +1,9 @@
 # Authors
 
+Copyright (c) 2026 OpenReciprocal.
+
 OSEL Version 0.1 was first published in this repository on 2026-09-26 by
-lemonhub-io, through the OpenReciprocal organization.
+OpenReciprocal.
 
 Later documentation is attributed by the git history of this repository.
 Names are added here when a contributor asks to be listed, or when a

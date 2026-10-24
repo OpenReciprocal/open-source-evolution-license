@@ -13,10 +13,8 @@ Do not attach a 0.2 record to software you offered under 0.1.
 ## Apply the draft
 
 1. Copy `LICENSES/OSEL-0.1.txt` to `LICENSE` in the root of your project.
-2. Replace `<year>` and `<copyright holder>` in that file with the year and
-   the name of the copyright holder. If copyright holders differ by file,
-   keep each file's own notice and use a project-level notice that does not
-   erase them.
+2. Leave the copyright notice as `Copyright (c) 2026 OpenReciprocal`.
+   Do not substitute a personal name.
 3. Put the header in [`source-header.txt`](source-header.txt) at the top of
    each source file, adjusted to that file's comment syntax.
 4. Do not add "OSI Approved" to the header. Version 0.1 is not approved.

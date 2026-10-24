@@ -8,7 +8,8 @@ a certification body.
 
 Maintainers are the people with commit access to the default branch of
 `OpenReciprocal/open-source-evolution-license`. The initial Version 0.1 text
-and the original repository overview were committed by lemonhub-io.
+and the original repository overview were published by OpenReciprocal.
+Copyright notices name that organization.
 
 Maintainers may appoint additional maintainers. A maintainer who is inactive
 for a long period may be removed by the remaining maintainers. This file

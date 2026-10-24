@@ -17,7 +17,7 @@ Note: This is the first formal working draft of the Open Source Evolution Licens
 
 Open Source Evolution License (OSEL), Version 0.1
 
-Copyright (c) &lt;year&gt; &lt;copyright holder&gt;
+Copyright (c) 2026 OpenReciprocal
 
 ## Section 1 Definitions
 
@@ -165,7 +165,7 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY DIRECT, IND
 
 To apply this License to your software, add the following notice at the top of each source code file:
 
-    Copyright (c) <year> <copyright holder>
+    Copyright (c) 2026 OpenReciprocal
 
     This software is released under the Open Source Evolution License (OSEL), Version 0.1. That license permits Recipients, subject to specified conditions, to evolve the license into an OSI-Approved Compatible License that imposes additional obligations. The complete license text is available in the LICENSE file in the project root directory.
 

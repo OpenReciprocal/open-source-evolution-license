@@ -7,7 +7,7 @@ The act that Version 0.1 called Replacement is called Evolution here. The operat
 
 Open Source Evolution License (OSEL), Version 0.2
 
-Copyright (c) <year> <copyright holder>
+Copyright (c) 2026 OpenReciprocal
 
 Section 1 Definitions
 
@@ -177,9 +177,9 @@ Section 9 General
 
 Instructions for Applying This Draft
 
-To offer software under this discussion draft, place this entire file in a file named LICENSE in the project root, with the copyright line filled in, and place the following notice at the top of each source file:
+To offer software under this discussion draft, place this entire file in a file named LICENSE in the project root, and place the following notice at the top of each source file. The copyright notice names the organization:
 
-Copyright (c) <year> <copyright holder>
+Copyright (c) 2026 OpenReciprocal
 
 This software is released under the Open Source Evolution License (OSEL), Version 0.2 (discussion draft). A Recipient who distributes a Modified Version may, subject to Section 5, evolve that version to an Evolution Target. The ancestor version remains under this draft. The license text is in the LICENSE file in the project root.
 

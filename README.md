@@ -80,7 +80,7 @@ The full index is [docs/README.md](docs/README.md). Project upkeep lives in
 ## How to apply a draft
 
 To apply Version 0.1, put [LICENSES/OSEL-0.1.txt](LICENSES/OSEL-0.1.txt) in a
-file named `LICENSE` and fill in the copyright line. To apply the 0.2
+file named `LICENSE`. The copyright notice is `Copyright (c) 2026 OpenReciprocal`. To apply the 0.2
 discussion draft, use [LICENSES/OSEL-0.2-draft.txt](LICENSES/OSEL-0.2-draft.txt)
 the same way. Do not mix the two records: 0.1 uses
 `LICENSE-REPLACEMENT.md`; the 0.2 draft uses `EVOLUTION.md`.
@@ -91,7 +91,7 @@ Add this notice at the top of each source file. A copy with a suggested
 SPDX identifier is in [examples/source-header.txt](examples/source-header.txt).
 
 ```text
-Copyright (c) <year> <copyright holder>
+Copyright (c) 2026 OpenReciprocal
 
 This software is released under the Open Source Evolution License
 (OSEL), Version 0.1. That license permits Recipients, subject to
