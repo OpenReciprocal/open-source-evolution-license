@@ -11,9 +11,10 @@ not amend 0.1. Neither draft is OSI-approved. This page is not legal advice.
 
 ## One sentence
 
-Any recipient may ship a descendant under a stricter OSI-approved license
-drawn from a fixed menu of duties. No one may ship that descendant under a
-weaker license. No one may edit an ancestor that has already been shipped.
+Any recipient may ship a copy under a stricter OSI-approved license drawn
+from a fixed menu of duties. Those stricter terms stick to that copy and to
+copies made from it. No one may ship that sticky copy under a weaker
+license. No other copy is rewritten.
 
 The maintainer does not own the future of the line. The future also cannot
 run backward.
@@ -29,13 +30,17 @@ Four things stay in every generation.
    does not widen it onto a contributor who did not make a wider promise.
 3. Copyright notices and the text of each license the line has lived under
    stay in the distribution. The past is readable.
-4. An ancestor version stays on the terms it was shipped under. Evolution
-   attaches to the descendant named in the record.
+4. An ancestor copy stays on the terms it was shipped under. Evolution
+   attaches only to the copy named in the record, and to copies made from it.
 
 ## What can change
 
-One thing. When a recipient distributes a modified version that is still
-under OSEL, that recipient may bind that version to an Evolution Target.
+One thing. When a recipient distributes a modified copy that is still under
+OSEL, that recipient may bind that copy to an Evolution Target. Section 5.5
+of the 0.2 draft calls this copy-level stickiness. The same version label
+in someone else's hands is a different copy and stays where it was. Material
+taken from the sticky copy carries the stickiness. Deleting the record does
+not wipe it off.
 
 An Evolution Target is an unmodified OSI-approved license that does all of
 the following:
@@ -96,12 +101,15 @@ describes the act this project is about.
 added. Every recipient may ship their own builds under OSEL. Evolution is a
 power the license gives them. Nothing in the license forces them to use it.
 
-**Northwind 2.0, the fork.** A recipient adds a scheduler, ships 2.0, and
-includes a valid record naming an OSI-approved share-alike license whose
-extra duties sit on the Menu. People who already have 1.0 still have 1.0
-under OSEL. The fork's later builds of 2.0 stay under the target. The fork
-cannot offer 2.0 under MIT. Contributors allowed this when they submitted
-code. They do not sign a second grant for the step.
+**Northwind 2.0, one shipped copy.** A recipient adds a scheduler, ships a
+copy labeled 2.0, and includes a valid record naming an OSI-approved
+share-alike license whose extra duties sit on the Menu. That copy, and
+copies made from it, stay under the target. People who already have 1.0
+still have 1.0 under OSEL. Another recipient who builds a different 2.0
+from the OSEL sources still holds an OSEL copy, and may ship it under OSEL
+or evolve that other copy on its own record. The first recipient cannot
+offer the sticky copy under MIT. Contributors allowed the step when they
+submitted code. They do not sign a second grant.
 
 **The steps that do not happen.** A recipient announces that Northwind is now
 noncommercial. No evolution occurs: the restriction is off the Menu. A

@@ -25,6 +25,7 @@ target rule in Section 1.11.
 | Irrevocable, also terminated on breach | Section 2 defines irrevocable as no withdrawal at will |
 | Entire agreement, with no room stated for a replacement | Section 9.3 keeps a valid Evolution inside the terms |
 | A failed replacement left implicit | Section 5.8: a failed step is not an Evolution |
+| Stickiness described for a replaced version | Section 5.5: copy-level stickiness. Only the shipped copy, and copies made from it, take the target |
 
 The Menu is the part that is new as an idea, not only as cleanup. It states,
 in this license's own words, which added duties a descendant may take on.
@@ -39,9 +40,12 @@ thing share-alike exists to do: the descendant may no longer be offered
 under a thinner license. That withdrawal counts as carrying out a Menu duty,
 not as an off-menu restriction.
 
-Section 5.1 and Section 5.2 together are the other hard pair. The step is
-available to every recipient, and only when they ship a modified version.
-An ancestor, and a verbatim copy, stay under this draft.
+Section 5.1, Section 5.2, and Section 5.5 are the scope of the step. The
+step is available to every recipient, and only when they ship a modified
+copy. Stickiness then follows that copy and copies made from it, including
+material taken from it. An ancestor, a verbatim copy, and any other copy
+that was not made from the sticky copy stay under this draft. The same
+version label does not, by itself, make a second copy sticky.
 
 Section 3.4 is the patent boundary. The recipient who takes the step may
 pass on patent rights that recipient holds. The step is not a power to

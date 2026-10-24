@@ -3,7 +3,7 @@ Version 0.2 — Discussion Draft
 
 Note: This is a discussion draft of the Open Source Evolution License, Version 0.2. It does not amend Version 0.1. Software released under Version 0.1 stays under Version 0.1. This draft has not been submitted to the Open Source Initiative and is not an OSI-approved license. The idea this text is written to carry is stated, non-operatively, in the project essay "The evolution idea."
 
-The act that Version 0.1 called Replacement is called Evolution here. The operative test is the Evolution Menu in Section 1.10. No other license supplies that definition.
+The act that Version 0.1 called Replacement is called Evolution here. The operative test is the Evolution Menu in Section 1.10. No other license supplies that definition. A valid Evolution is copy-level. It sticks to the Copy distributed with the Evolution Record, and to copies made from that Copy. It does not relicense any other Copy.
 
 Open Source Evolution License (OSEL), Version 0.2
 
@@ -61,6 +61,10 @@ A governing-law term, a venue term, a severability term, or a term that disclaim
 
 1.13 "Evolution Record" means the record required by Section 5.3.
 
+1.14 "Copy" means a particular instance of the Software or of a Modified Version, in source or object form. Two instances are different Copies even when they carry the same version label or the same contents.
+
+1.15 "Sticky Copy" means the Copy distributed with a valid Evolution Record, every reproduction of that Copy, and every Modified Version prepared from that Copy or from such a reproduction. Material taken from a Sticky Copy is a Sticky Copy to the extent of that material. A Copy is not a Sticky Copy merely because it has the same name, the same version label, or the same contents obtained from a distribution that was not that Evolution.
+
 Section 2 Grant
 
 Subject to this License, each Copyright Holder grants to every Recipient a worldwide, royalty-free, non-exclusive license to:
@@ -109,13 +113,13 @@ Section 4 Contributions
 
 Section 5 Evolution
 
-5.1 The step. A Recipient that distributes a Modified Version still under this License may evolve that Modified Version to an Evolution Target. The step is valid only when the Recipient meets every condition in this Section at the time of that distribution. Evolution is a power of the Recipient. This License does not require the Recipient to use it.
+5.1 The step. A Recipient that distributes a Modified Version still under this License may evolve the Copy it distributes to an Evolution Target. The step is valid only when the Recipient meets every condition in this Section at the time of that distribution. Evolution is a power of the Recipient. This License does not require the Recipient to use it. The Evolution applies only to the Sticky Copy of that step. It does not change the license of the Software as a whole, of the Project, of a version label, or of any other Copy.
 
-5.2 No step without a shipment, and no step for an ancestor. The Recipient must actually distribute the Modified Version. A statement that is not part of a distribution evolves nothing. Evolution has no effect on an Ancestor Version or on an unmodified copy. Those remain under this License.
+5.2 No step without a shipment, and no step for another copy. The Recipient must actually distribute the Copy. A statement that is not part of a distribution evolves nothing. Evolution has no effect on an Ancestor Version, on an unmodified Copy, or on any Copy that is not a Sticky Copy of that Evolution. Those Copies remain under this License. A person who holds such a Copy may distribute it under this License, and may exercise a separate Evolution for a different Copy that person distributes.
 
 5.3 The record. The distribution must include an Evolution Record. In a source tree, the record is a file named EVOLUTION.md in the root directory. If the form of distribution has no root directory, the record is a notice a recipient of that form would ordinarily see with the Software, containing the same items. The record contains:
 
-(a) this statement, with the blanks filled: "Under Section 5 of the Open Source Evolution License, Version 0.2, <Recipient> distributes version <version> (<date>) under <Evolution Target name and version>. The ancestor version remains under OSEL-0.2.";
+(a) this statement, with the blanks filled: "Under Section 5 of the Open Source Evolution License, Version 0.2, <Recipient> distributes this copy of version <version> (<date>) under <Evolution Target name and version>. Stickiness is copy-level: it applies to this copy and to copies made from it. Other copies remain under OSEL-0.2.";
 
 (b) the Evolution Target's unmodified text, or the address of the license steward's official copy;
 
@@ -127,9 +131,9 @@ The Recipient does not delete or alter an Evolution Record that came with the So
 
 5.4 The line keeps its papers. The evolved distribution must still include this License and the copyright notices required by Section 2, so the ancestor terms remain readable.
 
-5.5 The step binds the one who takes it. After a valid Evolution, that Recipient distributes that evolved version only under the Evolution Target, subject to Section 5.6. That Recipient does not distribute that evolved version again under this License or under a license with fewer duties than the Evolution Target.
+5.5 Copy-level stickiness. Stickiness is a property of the Sticky Copy. It is not a property of a version label, and it is not a property of the Project. Each Recipient who possesses a Sticky Copy, including the Recipient who took the step, distributes that Sticky Copy only under the Evolution Target, subject to Section 5.6. That Recipient does not distribute that Sticky Copy under this License or under a license with fewer duties than the Evolution Target. This Section does not remove that Recipient's license to a different Copy held under this License.
 
-5.6 What remains beside the target. The Evolution Target governs the evolved version. The following also remain:
+5.6 What remains beside the target. The Evolution Target governs the Sticky Copy. The following also remain:
 
 (a) copyright notices and attribution, kept to the stricter of this License and the Evolution Target;
 
@@ -137,9 +141,9 @@ The Recipient does not delete or alter an Evolution Record that came with the So
 
 (c) Section 3, on the terms of Section 3.4.
 
-5.7 Where this procedure stops. Once a version has validly evolved, further distribution of that version follows the Evolution Target. Section 5 does not authorize a second evolution of that version under this License. The Evolution Record stays with the distribution.
+5.7 Where this procedure stops. Section 5 does not authorize a further Evolution of a Sticky Copy under this License. Further distribution of a Sticky Copy follows the Evolution Target. The Evolution Record remains with every Sticky Copy. Removing or altering the record does not end the stickiness.
 
-5.8 A failed step is not an Evolution. If a Recipient purports to evolve and any condition of this Section or of Section 1.11 is unmet, no Evolution occurs. The Modified Version remains under this License as against every Recipient who received it under this License. A Recipient who offers that Modified Version solely under the purported target, without a valid Evolution, breaches this License.
+5.8 A failed step is not an Evolution. If a Recipient purports to evolve and any condition of this Section or of Section 1.11 is unmet, no Evolution occurs and no Sticky Copy arises. The Copy remains under this License as against every Recipient who received it under this License. A Recipient who offers that Copy solely under the purported target, without a valid Evolution, breaches this License.
 
 5.9 These are not Evolution Targets. A Recipient does not evolve to:
 
@@ -163,7 +167,7 @@ Section 8 Termination
 
 8.2 Cure restores rights under this License. It does not undo a valid Evolution.
 
-8.3 After a valid Evolution, this License no longer governs that Recipient's later distribution of the evolved version, except for the terms Section 5.6 keeps in effect, and except for Section 8 as it applies to a breach of those kept terms.
+8.3 After a valid Evolution, this License no longer governs distribution of the Sticky Copy, except for the terms Section 5.6 keeps in effect, and except for Section 8 as it applies to a breach of those kept terms. This License continues to govern every Copy that is not that Sticky Copy.
 
 Section 9 General
 
@@ -171,7 +175,7 @@ Section 9 General
 
 9.2 A delay or failure in enforcing a right is not a waiver of that right.
 
-9.3 This License is the entire agreement between a Copyright Holder and a Recipient about the license of the Software under this Version. A valid Evolution, the Evolution Target, and the terms kept by Section 5.6 are part of the terms of the evolved version. This Section does not exclude them.
+9.3 This License is the entire agreement between a Copyright Holder and a Recipient about the license of the Software under this Version. A valid Evolution, the Evolution Target, and the terms kept by Section 5.6 are part of the terms of the Sticky Copy. This Section does not exclude them.
 
 (End of License Text)
 
@@ -181,7 +185,7 @@ To offer software under this discussion draft, place this entire file in a file 
 
 Copyright (c) 2026 OpenReciprocal
 
-This software is released under the Open Source Evolution License (OSEL), Version 0.2 (discussion draft). A Recipient who distributes a Modified Version may, subject to Section 5, evolve that version to an Evolution Target. The ancestor version remains under this draft. The license text is in the LICENSE file in the project root.
+This software is released under the Open Source Evolution License (OSEL), Version 0.2 (discussion draft). A Recipient who distributes a Modified Version may, subject to Section 5, evolve that Copy to an Evolution Target. Stickiness is copy-level and follows that Copy and copies made from it. Any other Copy remains under this draft. The license text is in the LICENSE file in the project root.
 
 To exercise Evolution, ship the Modified Version with an Evolution Record that satisfies Section 5.3. A form is published with the project documentation as examples/EVOLUTION.md. The form is not part of this License.
 

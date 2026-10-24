@@ -1,8 +1,9 @@
 # Open Source Evolution License (OSEL)
 
-Any recipient may ship a descendant under a stricter OSI-approved license
-drawn from a fixed menu of duties. No one may ship that descendant under a
-weaker license. No one may edit an ancestor that has already been shipped.
+Any recipient may ship a copy under a stricter OSI-approved license drawn
+from a fixed menu of duties. Those stricter terms stick to that copy and to
+copies made from it. No one may ship that sticky copy under a weaker
+license. No other copy is rewritten.
 
 The maintainer does not own the future of the line. The future also cannot
 run backward.

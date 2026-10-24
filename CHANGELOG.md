@@ -12,6 +12,13 @@ No change to the operative wording of OSEL 0.1 Sections 1 through 9.
 
 - Copyright notices name the organization: `Copyright (c) 2026 OpenReciprocal`.
 
+### Copy-level stickiness
+
+- OSEL 0.2 discussion draft Section 5.5 states that a valid Evolution sticks
+  to the shipped copy and to copies made from it. Another copy is not
+  rewritten because it carries the same version label. Version 0.1 is
+  unchanged.
+
 ### 0.2 discussion draft
 
 - Added `LICENSES/OSEL-0.2-draft.txt`. The step is Evolution. The test is

@@ -17,9 +17,9 @@ yourself. If you cannot fill the Menu section, do not ship the record.
 
 Ancestor license: Open Source Evolution License, Version 0.2
 
-Evolved version: <version> (<date>)
+This copy: version <version> (<date>)
 
-Under Section 5 of the Open Source Evolution License, Version 0.2, <Recipient> distributes version <version> (<date>) under <Target License name and version>. The ancestor version remains under OSEL-0.2.
+Under Section 5 of the Open Source Evolution License, Version 0.2, <Recipient> distributes this copy of version <version> (<date>) under <Target License name and version>. Stickiness is copy-level: it applies to this copy and to copies made from it. Other copies remain under OSEL-0.2.
 
 Target text: <paste the unmodified official text, or give the steward's URL>
 
@@ -44,5 +44,5 @@ Field, person, group, or business-model restriction: none.
 Recipient taking this step: <name>.
 
 The distribution still includes the text of OSEL-0.2 and the original
-copyright notices. Ancestor versions shipped before this record are
-unchanged.
+copyright notices. Copies that were not made from this copy are unchanged,
+including ancestor copies and any other copy that only shares a version label.

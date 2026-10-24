@@ -25,6 +25,14 @@ One project should put one of them in `LICENSE`.
 No. Someone has to ship a modified version with a valid record. A project
 can live its whole life under OSEL and never take the step.
 
+### Where do the new terms stick?
+
+On the copy that was shipped with a valid record, and on copies made from
+it, including material taken from that copy. The 0.2 discussion draft calls
+this copy-level stickiness in Section 5.5. Another copy with the same
+version label, obtained from a distribution that was not that step, stays
+under OSEL. Version 0.1 does not state this rule.
+
 ## Status
 
 ### Is OSEL an OSI-approved license?
