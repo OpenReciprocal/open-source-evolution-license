@@ -1,0 +1,188 @@
+Open Source Evolution License (OSEL)
+Version 0.2 — Discussion Draft
+
+Note: This is a discussion draft of the Open Source Evolution License, Version 0.2. It does not amend Version 0.1. Software released under Version 0.1 stays under Version 0.1. This draft has not been submitted to the Open Source Initiative and is not an OSI-approved license. The idea this text is written to carry is stated, non-operatively, in the project essay "The evolution idea."
+
+The act that Version 0.1 called Replacement is called Evolution here. The operative test is the Evolution Menu in Section 1.10. No other license supplies that definition.
+
+Open Source Evolution License (OSEL), Version 0.2
+
+Copyright (c) <year> <copyright holder>
+
+Section 1 Definitions
+
+1.1 "This License" means the Open Source Evolution License (OSEL), Version 0.2.
+
+1.2 "Software" means the work released under this License, including its source code, object code, documentation, and accompanying files.
+
+1.3 "Contribution" means a work of authorship that a Contributor submits for inclusion in the Software, other than a communication marked or designated in writing as "Not a Contribution." "Submit" means any electronic, oral, or written communication sent to the Project Maintainers or their representatives, including communication on an electronic mailing list, a source-code control system, or an issue tracker. "Contributor" means a natural person or legal entity that makes a Contribution.
+
+1.4 "Recipient" means a natural person or legal entity that receives a copy of the Software under this License.
+
+1.5 "Copyright Holder" means a person who owns copyright in the Software or in a Contribution. Each Copyright Holder licenses only the expression in which that Copyright Holder owns copyright.
+
+1.6 "Project" means the collaborative effort under which the Software is offered under this License. "Project Maintainers" means the persons or entity the Project identifies as authorized to receive Contributions. If the Project names none, the Copyright Holders who offer the Software under this License are the Project Maintainers.
+
+1.7 "Affiliate" means an entity that controls, is controlled by, or is under common control with a party. Control means direct or indirect ownership of more than fifty percent of the voting power.
+
+1.8 "Modified Version" means the Software as changed by any addition, deletion, or alteration of material, including documentation. A copy that differs only by a license notice, by an evolution record, or by a version label is not a Modified Version. An unmodified copy is not a Modified Version.
+
+1.9 "OSI-Approved License" means a license approved by the Open Source Initiative and published on its official list of approved licenses, in the text that body approved, with no added restriction and no removed permission.
+
+1.10 "Evolution Menu" means only the following kinds of duty:
+
+(i) Attribution: a duty to preserve or provide attribution, source credit, or copyright notices, beyond the notice duty in Section 2;
+
+(ii) Source: a duty concerning the scope, timing, or manner of disclosing source code, including a duty to license a Modified Version under the same license or under a stated class of licenses;
+
+(iii) Patents: a duty or grant concerning a patent license, termination of a patent license upon patent litigation, or defense against a patent claim;
+
+(iv) Names: a restriction on trademark use, or on use of a name to endorse or promote a Modified Version;
+
+(v) Changes: a duty to identify a Modified Version or to describe the changes in it.
+
+The Evolution Menu is defined only by this Section. It is not defined by reference to any other license.
+
+1.11 "Evolution Target" means an OSI-Approved License for which all of the following are true:
+
+(a) it does not authorize removal of the copyright notices and license notices required by Section 2;
+
+(b) it imposes at least one duty that this License does not impose, and that duty belongs to the Evolution Menu;
+
+(c) every duty it imposes that this License does not impose belongs to the Evolution Menu;
+
+(d) it does not restrict use of the Software by field of endeavor, person, group, or business model.
+
+A term that withdraws permission to distribute a Modified Version under a less restrictive license does not fail subsection (c) when the withdrawal is how the license carries out a Menu duty, including a source-disclosure or share-alike duty.
+
+A governing-law term, a venue term, a severability term, or a term that disclaims warranty or limits liability is not a duty under subsections (b) or (c). Such a term cannot be the duty that satisfies subsection (b).
+
+1.12 "Ancestor Version" means a version of the Software that has already been distributed under this License before the distribution in which an Evolution is exercised.
+
+1.13 "Evolution Record" means the record required by Section 5.3.
+
+Section 2 Grant
+
+Subject to this License, each Copyright Holder grants to every Recipient a worldwide, royalty-free, non-exclusive license to:
+
+(a) use the Software for any purpose;
+
+(b) reproduce the Software;
+
+(c) prepare Modified Versions;
+
+(d) distribute the Software and Modified Versions, in source or object form;
+
+(e) grant to others the rights in (a) through (d) for the Software or a Modified Version, but only under this License, or under an Evolution Target as part of a valid Evolution under Section 5.
+
+The grant is not limited by field of use, person, group, or manner of use.
+
+"Irrevocable," as used in this License, means that the grantor may not withdraw the grant at will. It does not limit Section 3.2 or Section 8.
+
+Condition. The copyright notice above and this license notice must accompany every copy or substantial portion of the Software.
+
+Section 3 Patent grant
+
+3.1 Grant. Each Contributor and each Copyright Holder grants to every Recipient a perpetual, worldwide, non-exclusive, royalty-free patent license to make, use, sell, offer for sale, import, and otherwise dispose of the Software and Modified Versions. The license covers only patent claims that the grantor owns or controls and that are necessarily infringed by that grantor's Contribution alone, or by that Contribution combined with the Software to which it was submitted. It does not cover claims that would be infringed only as a consequence of a further modification of that Contribution.
+
+3.2 Retaliation. If a Recipient or its Affiliate brings patent litigation, including a cross-claim or counterclaim, against a Contributor, a Copyright Holder, or the Project, alleging that the Software or a Contribution infringes a patent, then the patent license granted to that Recipient by Section 3.1 ends on the day the litigation is filed. A claim that is not a patent claim does not cause this ending.
+
+3.3 Pass-through. A Recipient that distributes the Software passes the patent license of this Section to the recipients of that distribution, and does not add a patent restriction stricter than this Section.
+
+3.4 Evolution leaves the grant in place. A valid Evolution does not end or narrow the patent license granted under Section 3.1, and does not enlarge it. The Recipient that evolves may grant patent rights under the Evolution Target only to the extent that Recipient itself has those rights. Section 3.2 continues to apply to the license granted by each original Contributor and Copyright Holder.
+
+3.5 Separate from copyright. The patent license of this Section is not ended by a breach of the copyright terms, except as Section 3.2 provides.
+
+Section 4 Contributions
+
+4.1 A Contributor that submits a Contribution agrees that:
+
+(a) the Contributor licenses the Contribution to the Project Maintainers and to every Recipient on the terms of Section 2 and Section 3, as applicable to that Contribution;
+
+(b) from the moment of submission, the Contribution is offered under this License, and the Contributor will not assert against the Project or a Recipient a right in the Contribution that contradicts this License;
+
+(c) the Contributor has the legal right to make these grants for the Contribution, and the Contribution is an original work of the Contributor or is submitted with permission sufficient for these grants.
+
+4.2 Each Contributor authorizes every Recipient to exercise Evolution under Section 5 for any Modified Version that includes the Contribution, without a further grant. The authorization takes effect when the Contribution is included in the Software and passes on with each distribution.
+
+4.3 Contributors keep ownership of copyright in their Contributions. This License does not assign copyright.
+
+Section 5 Evolution
+
+5.1 The step. A Recipient that distributes a Modified Version still under this License may evolve that Modified Version to an Evolution Target. The step is valid only when the Recipient meets every condition in this Section at the time of that distribution. Evolution is a power of the Recipient. This License does not require the Recipient to use it.
+
+5.2 No step without a shipment, and no step for an ancestor. The Recipient must actually distribute the Modified Version. A statement that is not part of a distribution evolves nothing. Evolution has no effect on an Ancestor Version or on an unmodified copy. Those remain under this License.
+
+5.3 The record. The distribution must include an Evolution Record. In a source tree, the record is a file named EVOLUTION.md in the root directory. If the form of distribution has no root directory, the record is a notice a recipient of that form would ordinarily see with the Software, containing the same items. The record contains:
+
+(a) this statement, with the blanks filled: "Under Section 5 of the Open Source Evolution License, Version 0.2, <Recipient> distributes version <version> (<date>) under <Evolution Target name and version>. The ancestor version remains under OSEL-0.2.";
+
+(b) the Evolution Target's unmodified text, or the address of the license steward's official copy;
+
+(c) the Menu entries the target relies on, each tied to a provision of the target, sufficient to show Section 1.11(b) and (c);
+
+(d) the name of the Recipient taking the step.
+
+The Recipient does not delete or alter an Evolution Record that came with the Software. Section 5.7 says when no further Evolution under this License is available.
+
+5.4 The line keeps its papers. The evolved distribution must still include this License and the copyright notices required by Section 2, so the ancestor terms remain readable.
+
+5.5 The step binds the one who takes it. After a valid Evolution, that Recipient distributes that evolved version only under the Evolution Target, subject to Section 5.6. That Recipient does not distribute that evolved version again under this License or under a license with fewer duties than the Evolution Target.
+
+5.6 What remains beside the target. The Evolution Target governs the evolved version. The following also remain:
+
+(a) copyright notices and attribution, kept to the stricter of this License and the Evolution Target;
+
+(b) Section 6 and Section 7, unless the Evolution Target provides a warranty disclaimer and a limitation of liability at least as protective of Contributors and Copyright Holders;
+
+(c) Section 3, on the terms of Section 3.4.
+
+5.7 Where this procedure stops. Once a version has validly evolved, further distribution of that version follows the Evolution Target. Section 5 does not authorize a second evolution of that version under this License. The Evolution Record stays with the distribution.
+
+5.8 A failed step is not an Evolution. If a Recipient purports to evolve and any condition of this Section or of Section 1.11 is unmet, no Evolution occurs. The Modified Version remains under this License as against every Recipient who received it under this License. A Recipient who offers that Modified Version solely under the purported target, without a valid Evolution, breaches this License.
+
+5.9 These are not Evolution Targets. A Recipient does not evolve to:
+
+(a) a license that is not an OSI-Approved License;
+
+(b) a license that fails Section 1.11, including a license whose duties are fewer than or equal to the duties of this License;
+
+(c) a license that adds a restriction on a field of endeavor, a person, a group, or a business model.
+
+Section 6 Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+Section 7 Limitation of liability
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Section 8 Termination
+
+8.1 If a Recipient breaches this License, the copyright license granted to that Recipient ends. It is restored if the Recipient cures the breach within thirty days after the first written notice of the breach. Notice may be given by a Copyright Holder of the work concerned or by a Project Maintainer. Notice is effective when sent to an address the Recipient has published for legal notices or, if the Recipient has published none, when sent by the channel through which the Recipient distributed the Software.
+
+8.2 Cure restores rights under this License. It does not undo a valid Evolution.
+
+8.3 After a valid Evolution, this License no longer governs that Recipient's later distribution of the evolved version, except for the terms Section 5.6 keeps in effect, and except for Section 8 as it applies to a breach of those kept terms.
+
+Section 9 General
+
+9.1 If a provision of this License is held unenforceable, the remaining provisions continue.
+
+9.2 A delay or failure in enforcing a right is not a waiver of that right.
+
+9.3 This License is the entire agreement between a Copyright Holder and a Recipient about the license of the Software under this Version. A valid Evolution, the Evolution Target, and the terms kept by Section 5.6 are part of the terms of the evolved version. This Section does not exclude them.
+
+(End of License Text)
+
+Instructions for Applying This Draft
+
+To offer software under this discussion draft, place this entire file in a file named LICENSE in the project root, with the copyright line filled in, and place the following notice at the top of each source file:
+
+Copyright (c) <year> <copyright holder>
+
+This software is released under the Open Source Evolution License (OSEL), Version 0.2 (discussion draft). A Recipient who distributes a Modified Version may, subject to Section 5, evolve that version to an Evolution Target. The ancestor version remains under this draft. The license text is in the LICENSE file in the project root.
+
+To exercise Evolution, ship the Modified Version with an Evolution Record that satisfies Section 5.3. A form is published with the project documentation as examples/EVOLUTION.md. The form is not part of this License.
+
+Do not describe this draft as OSI-approved.

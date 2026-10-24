@@ -1,0 +1,50 @@
+License of this repository
+==========================
+
+This repository contains two kinds of material. They are licensed separately.
+
+1. The OSEL license text
+------------------------
+
+The operative text of the Open Source Evolution License, Version 0.1, in:
+
+- LICENSES/OSEL-0.1.txt
+- LICENSES/OSEL-0.1.md
+
+is dedicated to the public domain under the Creative Commons CC0 1.0
+Universal Public Domain Dedication.
+
+https://creativecommons.org/publicdomain/zero/1.0/
+
+To the extent possible under law, the persons who associated CC0 with the
+OSEL license text have waived all copyright and related or neighboring
+rights to that text. The purpose is to let anyone copy, adopt, and modify
+the license text.
+
+CC0 applies to the license text as a literary work. It does not change the
+meaning of OSEL when OSEL is applied to software, and it does not make
+software released under OSEL public-domain software.
+
+2. Documentation and other materials
+------------------------------------
+
+Unless a file says otherwise, the documentation, examples, drafting notes,
+translations, and other non-license materials in this repository are
+licensed under the Creative Commons Attribution 4.0 International License
+(CC-BY-4.0).
+
+https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt this documentation for any purpose, including
+commercially, provided that you give appropriate credit, provide a link to
+the license, and indicate if changes were made.
+
+3. What this file does not do
+-----------------------------
+
+- It does not grant trademark rights in the names "Open Source Evolution
+  License" or "OSEL", except for nominative use needed to identify the draft.
+- It is not legal advice.
+- It does not say that OSEL is approved by the Open Source Initiative.
+  OSEL Version 0.1 is a working draft and has not been submitted for
+  certification.

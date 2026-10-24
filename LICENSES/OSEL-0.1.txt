@@ -157,12 +157,4 @@ Copyright (c) <year> <copyright holder>
 
 This software is released under the Open Source Evolution License (OSEL), Version 0.1. That license permits Recipients, subject to specified conditions, to evolve the license into an OSI-Approved Compatible License that imposes additional obligations. The complete license text is available in the LICENSE file in the project root directory.
 
-Drafting Notes (Non-operative)
-
-This formal draft includes the patent grant in Section 3. It draws structurally on the experience of Section 3 of Apache 2.0 and Section 11 of GPLv3, with two adaptations:
-
-First, the "necessarily infringing" limitation in Section 3.1. Section 3.1 limits the patent license to patent claims that are necessarily infringed by the Contribution itself or by the combination of the Contribution with the Software. This is intended to avoid forcing a Contributor to grant a patent license for patents that have no substantial relation to its Contribution. Apache 2.0 adopts a similar limiting logic.
-
-Second, the interface between the patent license and the replacement right. Section 3.4 makes clear that the patent license does not automatically terminate upon license replacement. This is necessary because the patent license is an independent right granted directly by the Contributor to the Recipient, and its effect should not be extinguished by the replacement of the license text. However, the retaliation termination provision in Section 3.2 is retained to protect Contributors against patent litigation threats.
-
-Issue for further consideration: If the Target Compatible License itself contains stronger patent provisions than Section 3 (for example, Section 11 of GPLv3 requires that the patent license automatically extend to all downstream recipients without additional restrictions), Section 3.4 allows the Recipient to elect to apply the patent provisions of the Target License. Whether this could impose patent obligations on the original Contributor that it did not agree to needs further clarification in a future version. One possible improvement is to clarify in Section 3.4 that the patent provisions of the Target License may replace this Section only if they provide protection to Recipients no less than that provided by Section 3.1, and may not reduce the original Contributor's rights under the retaliation termination provision in Section 3.2.
+Editorial note (not part of the license): Drafting notes are non-operative. They are published separately with the OSEL project documentation and have no normative effect.
